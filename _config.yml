@@ -7,3 +7,5 @@ author: علی حسین زاده
 markdown: kramdown
 encoding: utf-8
 timezone: Asia/Tehran
+#outputting
+permalink: /archive/:year/:month/:day/:title
